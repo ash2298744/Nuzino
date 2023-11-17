@@ -1,0 +1,56 @@
+{
+"articles" : [
+    {
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": "Jeff Dunn,Valentina Palladino,Amy Skorheim",
+        "title": "The best Black Friday deals on 25 of our favorite gadgets from Amazon, Walmart, Target and more",
+        "description": "\"Black Friday\" has really become a misnomer in recent years. What was once one day with truly limited-time offers has expanded into a month-long sales marathon that can feel more exhausting than exciting. It's happening again in 2023: Target, Best Buy and Wal…",
+        "url": "https://www.engadget.com/the-best-black-friday-deals-on-25-of-our-favorite-gadgets-from-amazon-walmart-target-and-more-134504263.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2wzd1kw04F8gmI4hKvUybQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/b47077e0-7815-11ee-baad-c7070ba5e462",
+        "publishedAt": "2023-11-15T13:45:04Z",
+        "content": "\"Black Friday\" has really become a misnomer in recent years. What was once one day with truly limited-time offers has expanded into a month-long sales marathon that can feel more exhausting than exci… [+18893 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Chris Welch",
+        "title": "The first OLED Roku TV is here after a long, long wait",
+        "description": "Sharp is releasing the first OLED TVs that natively run Roku’s easy-to-use software. The TV is now available in 55-inch and 65-inch sizes.",
+        "url": "https://www.theverge.com/2023/11/15/23961754/sharp-aquos-oled-roku-tv-size-price",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/R4b6jCumq70lEiKUUy7PWHKMcUk=/0x0:2100x1400/1200x628/filters:focal(1050x700:1051x701)/cdn.vox-cdn.com/uploads/chorus_asset/file/25085711/2023_Sharp_RTV_Lifestyle_Asset_2100X1400_02__2_.jpg",
+        "publishedAt": "2023-11-15T14:00:00Z",
+        "content": "The first OLED Roku TV is here after a long, long wait\r\nThe first OLED Roku TV is here after a long, long wait\r\n / Sharps Aquos OLED TVs pair Rokus easy-to-use software with a Dolby Vision OLED panel… [+2151 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Seths.blog"
+        },
+        "author": "Seth Godin",
+        "title": "Turtleneck confusion",
+        "description": "Apple didn’t succeed because of the way Steve Jobs dressed. Just like SBF’s hair didn’t put him in jail. We can look at the outré behavior of various Silicon Valley overlords and come to the conclusion that it’s not only a necessary part of the job but actual…",
+        "url": "https://seths.blog/2023/11/turtleneck-confusion/",
+        "urlToImage": "https://149521506.v2.pressablecdn.com/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061313.jpg",
+        "publishedAt": "2023-11-15T14:30:00Z",
+        "content": "Apple didn’t succeed because of the way Steve Jobs dressed.\r\nJust like SBF’s hair didn’t put him in jail.\r\nWe can look at the outré behavior of various Silicon Valley overlords and come to the conclu… [+824 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+        "title": "Google still doesn't know how to bundle its services",
+        "description": "Google has a lot of subscription services, but there's still no all-in-one bundle.",
+        "url": "https://www.androidcentral.com/apps-software/google-still-doesnt-know-how-to-bundle-its-services",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/MLvjukPC2P7tp9tzUzyg43-1200-80.jpg",
+        "publishedAt": "2023-11-15T12:49:10Z",
+        "content": "I use a lot of Google services, out of which four are paid: Google One, YouTube Premium, Play Pass, and Nest Aware. As a primarily software-driven brand, you'd think that Google would know how to bun… [+3176 chars]"
+    }
+]
+}
